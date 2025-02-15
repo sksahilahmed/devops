@@ -1,0 +1,21 @@
+hey the commands which i have used till now are 
+
+mkdir- it is used to make folder or directory
+touch - it is used to create a file
+cd - change directory
+cp- copy one file to other destination
+git add . - to add all the files to the staging area
+
+git add <filename> - add specific files to the staging area
+
+git status - gives the status of the ongoing staged and unstaged files and their information
+
+git commit -m[message] - it commits the staged files to the local repository
+
+git remote add alias github_link - it connects the local repo to the remote repo
+
+git remote -v - it verifies the connection between the local repo and the remote repo
+
+git push alias branch - it pushes the commited files to the remote repo
+
+git pull 
